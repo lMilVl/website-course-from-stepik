@@ -1,2 +1,5 @@
-# website-course-from-stepik
-Creation of a site on assignments from the course of the stepik.
+Создание сайта с курса на степике.
+1. Верстка сайта - HTML.
+
+
+2. Стилизация сайта - CSS
